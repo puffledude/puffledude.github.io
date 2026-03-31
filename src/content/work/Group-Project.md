@@ -19,7 +19,7 @@ title="CSC8508 Group Project PS5 Build" frameborder="0" allow="accelerometer; au
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </n>
 PC Build: </n>
-<iframe width="1393" height="785" src="https://www.youtube.com/embed/iOAtWiHzFY4" title="CSC8508 - VideoSinglePlayer Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+<iframe width="600" height="400" src="https://www.youtube.com/embed/iOAtWiHzFY4" title="CSC8508 - VideoSinglePlayer Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </n>
 
