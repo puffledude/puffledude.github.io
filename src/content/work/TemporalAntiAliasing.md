@@ -1,3 +1,4 @@
+---
 title: Temporal Anti-Aliasing
 publishDate: 2026-05-27 15:00:00
 img: /assets/TAAScreenshot.png
